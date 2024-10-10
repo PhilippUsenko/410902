@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\user\Desktop\ОАИП\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(29,18): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication3.vcxproj -> C:\Users\user\Desktop\ОАИП\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

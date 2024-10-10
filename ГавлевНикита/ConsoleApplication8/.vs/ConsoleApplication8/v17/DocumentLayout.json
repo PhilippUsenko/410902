@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\ConsoleApplication8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|solutionrelative:ConsoleApplication8\\ConsoleApplication8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication8.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\ConsoleApplication8.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication8\\ConsoleApplication8.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\ConsoleApplication8.cpp",
+              "RelativeToolTip": "ConsoleApplication8\\ConsoleApplication8.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T14:20:24.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

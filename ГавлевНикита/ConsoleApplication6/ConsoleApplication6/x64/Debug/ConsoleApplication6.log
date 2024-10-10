@@ -1,0 +1,6 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\user\Desktop\ОАИП\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(36,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\ОАИП\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(38,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\ОАИП\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(49,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\ОАИП\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(51,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication6.vcxproj -> C:\Users\user\Desktop\ОАИП\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
