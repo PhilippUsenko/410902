@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041E\u0410\u0418\u041F\\ConsoleApplication4\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEBC0897-CA43-4ED7-AEEA-A64152A0C768}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\user\\Desktop\\\u041E\u0410\u0418\u041F\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEBC0897-CA43-4ED7-AEEA-A64152A0C768}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEBC0897-CA43-4ED7-AEEA-A64152A0C768}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication4.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u0410\u0418\u041F\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u0410\u0418\u041F\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-19T09:18:24.26Z",
               "EditorCaption": ""

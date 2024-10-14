@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication8\\ConsoleApplication8\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|solutionrelative:ConsoleApplication8\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3123DFB-E5EE-41C7-A585-70EA3B495F57}|ConsoleApplication8\\ConsoleApplication8.vcxproj|solutionrelative:ConsoleApplication8\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\2.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication8\\2.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\2.cpp",
-              "RelativeToolTip": "ConsoleApplication8\\2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-12T11:45:55.938Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "1.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication8\\ConsoleApplication8\\1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication8\\1.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OAIP\\ConsoleApplication8\\ConsoleApplication8\\1.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OAIP\\Github\\410902\\\u0413\u0430\u0432\u043B\u0435\u0432\u041D\u0438\u043A\u0438\u0442\u0430\\ConsoleApplication8\\ConsoleApplication8\\1.cpp",
               "RelativeToolTip": "ConsoleApplication8\\1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T14:20:24.851Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿  1.cpp
-  2.cpp
-  Создание кода...
-  ConsoleApplication8.vcxproj -> C:\Users\user\Desktop\OAIP\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication8\ConsoleApplication8\1.cpp(7,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication8\ConsoleApplication8\1.cpp(19,64): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication8\ConsoleApplication8\1.cpp(21,9): warning C4244: return: преобразование "double" в "unsigned __int64", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
