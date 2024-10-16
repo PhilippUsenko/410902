@@ -4,8 +4,7 @@ using namespace std;
 
 int main() {
 	const float a = 0.001;
-	int n;
-	n = 1;
+	int n = 1;
 	double result = 0, old_value = 0, now_value = 1;
 	while (fabs(now_value - old_value) > a)
 	{
