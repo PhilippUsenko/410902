@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user\Desktop\ОАИП\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(68,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\user\Desktop\ОАИП\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
