@@ -27,4 +27,5 @@ int main()
 
         cout << "A = B = " << 0 << endl;
     }
+    return 0
 }
