@@ -1,5 +1,8 @@
-#include <iostream>
-#include <cmath>
+#include<iostream> 
+#include <conio.h> 
+#include <stdlib.h> 
+#include<iomanip> 
+
 using namespace std;
 int main() {
 	int n = 0;
