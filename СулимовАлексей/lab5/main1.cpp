@@ -3,15 +3,13 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "RU");
-    int //row1 = 0,//1 массив
-        //col1 = 0,//1 массив
-        row2 = 1,//2 массив
+    int row2 = 1,//2 массив
         num = 1,
         k = 1,
         l = 0;
     //динамический двумерный
-    unsigned row1 = 3;       // количество строк 
-    unsigned col1 = 4;    // количество столбцов 
+    unsigned row1 = 4;       // количество строк 
+    unsigned col1 = 3;    // количество столбцов 
     int* newa{ new int[row1 * col1] };      //одномерный масссив
     int** a{ new int* [row1] {} };  // выделяем память под двухмерный 
     //массив
@@ -22,11 +20,11 @@ int main()
     // вводим данные для таблицы rows x columns 
     for (unsigned i{}; i < row1; i++)
     {
-        cout << (i + 1) << " ряд" << endl;
+        cout << (i + 1) << " row" << endl;
         // вводим данные для столбцов i-й строки 
         for (unsigned j{}; j < col1; j++)
         {
-            cout << (j + 1) << " столбец ";
+            cout << (j + 1) << " column ";
             cin >> a[i][j];
         }
     }
@@ -41,18 +39,17 @@ int main()
                 k = k * a[i][j];
                 newa[row2] = k;
                 k = a[i][j];
-                cout << newa[row2] << endl;
+                cout << newa[row2] << " ";
                 row2++;
             }
         }
-        cout << endl;
     }
     //удаление
     for (unsigned i{}; i < row1; i++)
     {
         delete[] a[i];
     }
-    delete[] a;    
+    delete[] a;
     delete [] newa;
     return 0;
 }
