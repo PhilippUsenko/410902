@@ -23,12 +23,6 @@ int main()
 		}
 	}
 
-	float **new_my_list{ new float* [lines] {} };
-	for (int i = 0; i < lines; i++)
-	{
-		new_my_list[i] = new float[columns] {};
-	}
-
 	for (int i = 0; i < lines; i++)
 	{
 		min_value = my_list[i][0];
@@ -41,22 +35,13 @@ int main()
 		}
 		for (int j = 0; j < columns; j++)
 		{
-			new_my_list[i][j] = my_list[i][j] / min_value;
-		}
-		min_value = 0;
-	}
-	for (int i = 0; i < lines; i++)
-	{
-		for (int j = 0; j < columns; j++)
-		{
-			cout << new_my_list[i][j] << " ";
+			my_list[i][j] = my_list[i][j] / min_value;
+			cout << my_list[i][j] << " ";
 		}
 		cout << endl;
+		min_value = 0;
 	}
-	for (int i = 0; i < lines; i++) {
+	for (int i = 0; i < lines; i++) 
 		delete[] my_list[i];
-		delete[] new_my_list[i];
-	}
 	delete[] my_list;
-	delete[] new_my_list;
 }
