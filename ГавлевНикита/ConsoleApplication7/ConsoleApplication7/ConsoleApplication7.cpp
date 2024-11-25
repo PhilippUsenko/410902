@@ -12,7 +12,7 @@ int main()
         int month;
     };
     date first, second, third;
-    first.year = { 2000 };
+    first.year = { 3000 };
     first.month = { 1 };
     second.year = { 2024 };
     second.month = { 11 };
@@ -52,7 +52,7 @@ int main()
         }
         else if (third.year == first.year or third.year == second.year)
         {
-            if (third.month > first.month and third.month < second.year)
+            if (third.month > first.month and third.month <= second.month)
             {
                 if (out.is_open())
                     out << "Дата входит в заданный диапазон";
@@ -61,7 +61,7 @@ int main()
             else
             {
                 if (out.is_open())
-                    out << "Год входит в диапазон, а месяц нет";
+                    out << "Дата не входит в заданный диапазон";
                 out.close();
             }
         }

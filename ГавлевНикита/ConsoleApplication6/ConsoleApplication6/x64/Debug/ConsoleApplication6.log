@@ -1,6 +1,6 @@
 ﻿  ConsoleApplication6.cpp
-C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(37,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(39,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(50,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(52,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(36,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(38,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(49,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(51,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
   ConsoleApplication6.vcxproj -> C:\Users\user\Desktop\OAIP\Github\410902\ГавлевНикита\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
