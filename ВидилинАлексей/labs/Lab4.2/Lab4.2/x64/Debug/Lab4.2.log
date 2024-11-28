@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab4.2\Lab4.2\Source.cpp(6,6): warning C4101: rows: неиспользованная локальная переменная
+C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab4.2\Lab4.2\Source.cpp(6,12): warning C4101: columns: неиспользованная локальная переменная
+  Lab4.2.vcxproj -> C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab4.2\x64\Debug\Lab4.2.exe

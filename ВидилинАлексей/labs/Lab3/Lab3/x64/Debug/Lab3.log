@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab3\Lab3\Source.cpp(32,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab3\Lab3\Source.cpp(34,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\User\Desktop\univer\oaип\LabsProgramming\Lab3\x64\Debug\Lab3.exe
