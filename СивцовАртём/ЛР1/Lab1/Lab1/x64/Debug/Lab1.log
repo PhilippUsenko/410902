@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Artem\Desktop\БГУИР\ОАиП\ЛР\ЛР1\Lab1\Lab1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Artem\Desktop\БГУИР\ОАиП\ЛР\ЛР1\Lab1\Lab1\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Lab1.vcxproj -> C:\Users\Artem\Desktop\БГУИР\ОАиП\ЛР\ЛР1\Lab1\x64\Debug\Lab1.exe
