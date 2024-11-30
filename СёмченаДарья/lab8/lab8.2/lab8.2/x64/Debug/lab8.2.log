@@ -1,0 +1,29 @@
+﻿  lab-8.2.cpp
+C:\БГУИР\ОАиП\Лабораторные\lab8.2\lab8.2\lab-8.2.cpp(27,6): error C3861: length: идентификатор не найден
+C:\БГУИР\ОАиП\Лабораторные\lab8.2\lab8.2\lab-8.2.cpp(34,15): error C3861: substr: идентификатор не найден
+C:\БГУИР\ОАиП\Лабораторные\lab8.2\lab8.2\lab-8.2.cpp(34,11): error C2593: неоднозначный "оператор ="
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1440,32):
+      может быть "std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)"
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1432,32):
+      или       "std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )"
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1381,32):
+      или       "std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1332,32):
+      или       "std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)"
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1211,32):
+      или       "std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept(<expr>)"
+      C:\БГУИР\ОАиП\Лабораторные\lab8.2\lab8.2\lab-8.2.cpp(34,11):
+      при попытке сопоставить список аргументов "(std::string, unknown-type)"
+  
