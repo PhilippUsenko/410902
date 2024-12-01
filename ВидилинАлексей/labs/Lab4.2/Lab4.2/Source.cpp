@@ -3,9 +3,10 @@
 using namespace std;
 
 int main() {
-	int rows, columns;
 	int result = 0;
-	int arr[10][10];
+	int arr[3][3];
+
+	cout << "Enter array elements: " << endl;
 
 	for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 3; j++) {
@@ -13,7 +14,7 @@ int main() {
 			result += arr[i][j];
 		}
 	}
-	cout << result / 9 << endl;
+	cout << "Result: " << result / 9 << endl;
 	system("pause>nul");
 	return 0;
 }

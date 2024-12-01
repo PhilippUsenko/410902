@@ -18,6 +18,6 @@ int main() {
 		}
 	}
 
-	cout << "Кол-во строчных: " << countLower << endl
-		<< "Кол-во прописных: " << countUpper << endl;
+	cout << "Count low: " << countLower << endl
+		<< "Count up: " << countUpper << endl;
 }
