@@ -1,0 +1,5 @@
+﻿  8laba_task2_code.cpp
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_task2\8laba_task2_code.cpp(54,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_task2\8laba_task2_code.cpp(66,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_task2\8laba_task2_code.cpp(70,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  8laba_task2.vcxproj -> D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_task2\x64\Debug\8laba_task2.exe

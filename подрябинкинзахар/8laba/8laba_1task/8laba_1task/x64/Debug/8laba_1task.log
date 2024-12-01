@@ -1,0 +1,8 @@
+﻿  8laba_1task_code.cpp
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(22,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(23,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(75,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(86,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(93,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\8laba_1task_code.cpp(106,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  8laba_1task.vcxproj -> D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\8laba\8laba_1task\x64\Debug\8laba_1task.exe

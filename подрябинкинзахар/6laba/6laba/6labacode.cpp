@@ -5,15 +5,15 @@ using namespace std;
 
 int main()
 {
-	char Alph1[] {"ABCDEFGHIJKLMNOPQRSTUVWXYZ"};
-	char alph[]  {"abcdefghijklmnopqrstuvwxyz" };
+	char Alph1[] {"ABCDEFGHIJKLMNOPQRSTUVWXYZ"}; // Массив заглавных букв для перевода
+	char alph[]  {"abcdefghijklmnopqrstuvwxyz" }; // Массив прописных букв для перевода
 	char text [256];
 	cout << "Input: ";
-	cin.getline(text, 256);
+	cin.getline(text, 255);
 	cout << endl;
 	char ch1[300]{ " " };
-	strcat_s(ch1, text);
-	strcpy_s(text, ch1);
+	strcat_s(ch1, text); 
+	strcpy_s(text, ch1); // добавление пробела перед строкой для правильной работы алгоритма
 	
 	int size = strlen(text);
 	for (int i = 0; i < size; i++ )
@@ -21,15 +21,13 @@ int main()
 		if (text[i] == ' ' and text[i + 1] != ' ')
 		{
 			int c = 0;
-			while (text[i + 1] != alph[c] and c < 26)
+			while (text[i + 1] != alph[c] and c < 26) //поиск порядкого номера буквы в массиве прописных букв
 			{
 				c++;
-				/*cout << " it: " << i << " time: " << c << endl;*/
 			}
-			if (text[i + 1] == alph[c])
+			if (text[i + 1] == alph[c]) // замена буквы на заглавную в случае, если найдена прописная
 			{
 				text[i + 1] = Alph1[c];
-				/*cout << "comp" << endl;*/
 			}
 		}
 	}
