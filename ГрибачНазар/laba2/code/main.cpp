@@ -14,8 +14,8 @@ int main()
 
     if (A != B)
     {
-        
-        A > B ? B=A : A=B;
+
+        A > B ? B = A : A = B;
 
         cout << "A - " << A << endl;
         cout << "B - " << B << endl;
@@ -27,5 +27,4 @@ int main()
 
         cout << "A = B = " << 0 << endl;
     }
-    return 0
 }

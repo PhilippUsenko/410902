@@ -8,7 +8,8 @@ int main()
 
     int selectedCode = 1;
 
-    cout << endl << "Выбери игру(1 или 2):";
+    cout << endl
+         << "Выбери игру(1 или 2):";
 
     cin >> selectedCode;
 
