@@ -11,9 +11,9 @@ struct drob
 drob chastnoye(drob inp1, drob inp2) //функция вычисления частного
 {
 	drob outp;
+	int znak = 1; // знак дроби
 	outp.chisl = inp1.chisl * inp2.znam;
 	outp.znam = inp1.znam * inp2.chisl;
-	int znak = 1; // знак дроби
 	if (((outp.chisl > 0) and (outp.znam < 0)) or ((outp.chisl < 0) and (outp.znam > 0))) // определение итогового знака дроби
 	{
 		znak = -1;
@@ -45,7 +45,8 @@ drob vvod() //функция ввода дробного числа
 	int chisl = 0;
 	int znam = 0;
 	char input[256];
-	int funct_status = -1;
+	int znak = 1;
+	int funct_status = -1; // переменная для проверки вида дроби и поиска места символа / в записи дроби
 	cin.getline(input, 256);
 	for (int i = 0; i < strlen(input); i++) // поиск знака / в дроби
 	{
@@ -54,7 +55,7 @@ drob vvod() //функция ввода дробного числа
 			funct_status = i;
 		}
 	}
-	int znak = 1;
+	
 	if (input[0] == '-') // проверка на отрицательное число в числителе
 	{
 		znak *= -1;
@@ -66,8 +67,8 @@ drob vvod() //функция ввода дробного числа
 
 	if (funct_status == -1)
 	{
-		
 		znam = 1;
+
 		for (int i = 0; i < strlen(input); i++) // действие на случай если отсутствует знак /
 		{
 			if (input[i] != '-') //проверка на знак минус и перевод числа из массива char в int

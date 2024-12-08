@@ -76,10 +76,7 @@ void main()
 			
 	}
 	cout << endl << "Вывод текста: ";
-	for (int i = 0; i < strlen(input); i++)
-	{
-		cout << input[i];
-	}
+	cout << input;
 	cout << endl;
 	system("pause");
 }
