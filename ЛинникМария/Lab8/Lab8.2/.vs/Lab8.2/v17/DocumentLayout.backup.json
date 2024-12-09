@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0410\u0438\u041F\\Lab8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA2C990-B2FC-46A6-B018-C6C13B657000}|Lab8.2.vcxproj|C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0410\u0438\u041F\\Lab8.2\\Labi8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FA2C990-B2FC-46A6-B018-C6C13B657000}|Lab8.2.vcxproj|solutionrelative:Labi8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labi8.2.cpp",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0410\u0438\u041F\\Lab8.2\\Labi8.2.cpp",
+              "RelativeDocumentMoniker": "Labi8.2.cpp",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u041E\u0410\u0438\u041F\\Lab8.2\\Labi8.2.cpp",
+              "RelativeToolTip": "Labi8.2.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T19:39:31.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
