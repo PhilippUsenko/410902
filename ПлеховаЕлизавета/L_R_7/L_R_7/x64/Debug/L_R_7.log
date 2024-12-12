@@ -1,0 +1,5 @@
+﻿  L_R_7.cpp
+D:\Programist\L_R_7\L_R_7.cpp(29,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programist\L_R_7\L_R_7.cpp(31,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\Programist\L_R_7\L_R_7.cpp(32,24): warning C4305: инициализация: усечение из "double" в "float"
+  L_R_7.vcxproj -> D:\Programist\L_R_7\x64\Debug\L_R_7.exe
