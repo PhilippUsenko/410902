@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+      <FILENAME>Lr_6.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "n".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+        <FILENAME>Lr_6.cpp</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+        <FILENAME>Lr_6.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+        <FILENAME>Lr_6.cpp</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "n" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+        <FILENAME>Lr_6.cpp</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\Programist\Lr_6\</FILEPATH>
+        <FILENAME>Lr_6.cpp</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>26</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"n" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
