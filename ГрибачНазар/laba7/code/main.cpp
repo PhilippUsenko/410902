@@ -18,11 +18,23 @@ int main()
     struct product products[] = {{"Бананы", 5}, {"Конфеты", 8}, {"Сок", 5}, {"Вафли", 3}};
     int n = sizeof(products) / sizeof(products[0]); // Количество товаров в массиве
 
+    std::ofstream outFile(filename); // Открытие файла для записи
+
+    // Проверка успешности открытия файла(ошибка -> завершение функции)
+    if (!outFile)
+    {
+        std::cout << "Ошибка открытия файла для записи!" << std::endl;
+        return 1;
+    }
+
     // Вывод текущих товаров и их цен
     for (unsigned i{}; i < n; i++)
     {
+        outFile << "Товар " << i + 1 << " - Название: " << products[i].name << ", Цена: " << products[i].price << "руб.\n";
         std::cout << "Товар " << i + 1 << " - Название: " << products[i].name << ", Цена: " << products[i].price << "руб.\n";
     }
+    outFile.close();
+
     int selectedProduct; // Индекс выбранного товара для изменения цены
     int newPrice;        // Новая цена
 
@@ -57,8 +69,7 @@ int main()
         }
     }
 
-    std::ofstream outFile(filename); // Открытие файла для записи
-
+    outFile.open(filename);
     // Проверка успешности открытия файла(ошибка -> завершение функции)
     if (!outFile)
     {
