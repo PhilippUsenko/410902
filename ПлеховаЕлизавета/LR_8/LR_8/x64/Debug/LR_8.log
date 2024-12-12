@@ -1,0 +1,4 @@
+﻿  LR_8.cpp
+D:\Programist\LR_8\LR_8.cpp(25,33): warning C4101: del1: неиспользованная локальная переменная
+D:\Programist\LR_8\LR_8.cpp(25,39): warning C4101: del2: неиспользованная локальная переменная
+  LR_8.vcxproj -> D:\Programist\LR_8\x64\Debug\LR_8.exe
