@@ -1,9 +1,9 @@
 #include <iostream>
-#define PI -2/3 
+#define PI  3.14  // Число Пи для вычислений
 #include <cstdlib>
 #include <cmath>
 using namespace std;
- // Число Пи для вычислений
+ 
 int main()
 {
 	int count = 0;
