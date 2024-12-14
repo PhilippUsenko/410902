@@ -1,0 +1,5 @@
+﻿  FileName8.cpp
+C:\Users\DS\source\repos\Project8\FileName8.cpp(41,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DS\source\repos\Project8\FileName8.cpp(21,40): warning C4101: g: неиспользованная локальная переменная
+C:\Users\DS\source\repos\Project8\FileName8.cpp(74,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Project8.vcxproj -> C:\Users\DS\source\repos\Project8\x64\Debug\Project8.exe
