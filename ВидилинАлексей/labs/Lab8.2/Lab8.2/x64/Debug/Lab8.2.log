@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\User\Desktop\univer\410902\410902\ВидилинАлексей\labs\Lab8.2\Lab8.2\Source.cpp(26,32): error C2111: +: для сложения указателей требуется целый операнд
-C:\Users\User\Desktop\univer\410902\410902\ВидилинАлексей\labs\Lab8.2\Lab8.2\Source.cpp(27,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Lab8.2.vcxproj -> C:\Users\User\Desktop\univer\410902\410902\ВидилинАлексей\labs\Lab8.2\x64\Debug\Lab8.2.exe

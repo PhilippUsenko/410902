@@ -20,4 +20,5 @@ int main() {
 
 	cout << "Count low: " << countLower << endl
 		<< "Count up: " << countUpper << endl;
+	return 0;
 }
