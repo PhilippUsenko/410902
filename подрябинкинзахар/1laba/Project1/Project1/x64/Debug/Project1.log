@@ -1,6 +1,0 @@
-﻿  BaseCodeOfLaba.cpp
-D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\1laba\Project1\BaseCodeOfLaba.cpp(25,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\1laba\Project1\BaseCodeOfLaba.cpp(26,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\1laba\Project1\BaseCodeOfLaba.cpp(30,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\1laba\Project1\BaseCodeOfLaba.cpp(35,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  Project1.vcxproj -> D:\Zaxar_sd\_БГУИР учёба\_ОАиП лабы локально\1laba\Project1\x64\Debug\Project1.exe
