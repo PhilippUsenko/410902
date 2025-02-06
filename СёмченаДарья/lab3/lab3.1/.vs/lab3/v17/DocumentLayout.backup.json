@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0797864-FE5C-469E-832B-54463BDC1B07}|lab3\\lab3.vcxproj|C:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab3\\lab3\\Lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0797864-FE5C-469E-832B-54463BDC1B07}|lab3\\lab3.vcxproj|solutionrelative:lab3\\Lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.cpp",
+              "DocumentMoniker": "C:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab3\\lab3\\Lab3.cpp",
+              "RelativeDocumentMoniker": "lab3\\Lab3.cpp",
+              "ToolTip": "C:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\lab3\\lab3\\Lab3.cpp",
+              "RelativeToolTip": "lab3\\Lab3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T20:29:05.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
